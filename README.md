@@ -1,4 +1,10 @@
-# Projeto - Arquitetura Api Python
+# Python API Architecture
+
+🇺🇸 This project aims to design and implement a simple, efficient API architecture using Python. It will cover essential topics such as RESTful API design, authentication, database integration, and error handling. By the end, you'll know how to create and manage APIs effectively.
+
+🇧🇷 Este projeto visa projetar e implementar uma arquitetura de API simples e eficiente usando Python. Abrangerá tópicos essenciais como design de API RESTful, autenticação, integração com banco de dados e tratamento de erros. Ao final, você saberá como criar e gerenciar APIs de forma eficaz.
+
+🇪🇸 Este proyecto tiene como objetivo diseñar e implementar una arquitectura de API simple y eficiente usando Python. Cubrirá temas esenciales como diseño de API RESTful, autenticación, integración con bases de datos y manejo de errores. Al final, sabrás cómo crear y gestionar APIs de manera efectiva.
 
 ## Setup
 
