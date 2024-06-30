@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pyodbc
+pydantic
+python-dotenv
+pytest
+pytest-mock
