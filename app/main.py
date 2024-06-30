@@ -12,3 +12,8 @@ app = FastAPI(title="Python API Architecture",
               redoc_url="/redoc")
 app.include_router(version.router)
 app.include_router(users.router)
+
+
+@app.get("/")
+def read_root():
+    return {"message": "Python API Architecture"}

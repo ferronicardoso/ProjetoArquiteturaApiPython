@@ -1,7 +1,11 @@
 fastapi
 uvicorn
 pyodbc
+sqlalchemy
+databases
+python-dotenv
 pydantic
 python-dotenv
 pytest
 pytest-mock
+pymysql
